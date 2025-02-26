@@ -1,6 +1,8 @@
 # Billiard
 #### Billiard game with Jetpack Compose
 
+![Alt Text](billiard.gif)
+
 ## Run
 * To run, execute:
     ```
